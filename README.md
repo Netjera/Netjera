@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Unity and how to program in C#!
 - 💞️ I’m looking to collaborate on small games to build up my portfolio!
 - 📫 How to reach me:  
-     ⓕ [TheNetjera](https://www.facebook.com/TheNetjera)
-     🅸 https://www.instagram.com/netjera/
+     - ⓕ [TheNetjera](https://www.facebook.com/TheNetjera)
+     - 🅸 https://www.instagram.com/netjera/
 
 <!---
 Netjera/Netjera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
